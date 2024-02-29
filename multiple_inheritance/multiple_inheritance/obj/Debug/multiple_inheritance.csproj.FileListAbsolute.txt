@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\ConsoleApp1\multiple_inheritance\multiple_inheritance\bin\Debug\multiple_inheritance.exe.config
+C:\Users\acer\source\repos\ConsoleApp1\multiple_inheritance\multiple_inheritance\bin\Debug\multiple_inheritance.exe
+C:\Users\acer\source\repos\ConsoleApp1\multiple_inheritance\multiple_inheritance\bin\Debug\multiple_inheritance.pdb
+C:\Users\acer\source\repos\ConsoleApp1\multiple_inheritance\multiple_inheritance\obj\Debug\multiple_inheritance.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ConsoleApp1\multiple_inheritance\multiple_inheritance\obj\Debug\multiple_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ConsoleApp1\multiple_inheritance\multiple_inheritance\obj\Debug\multiple_inheritance.exe
+C:\Users\acer\source\repos\ConsoleApp1\multiple_inheritance\multiple_inheritance\obj\Debug\multiple_inheritance.pdb

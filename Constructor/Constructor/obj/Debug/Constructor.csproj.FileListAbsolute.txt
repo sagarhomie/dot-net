@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\ConsoleApp1\Constructor\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\acer\source\repos\ConsoleApp1\Constructor\Constructor\bin\Debug\Constructor.exe
+C:\Users\acer\source\repos\ConsoleApp1\Constructor\Constructor\bin\Debug\Constructor.pdb
+C:\Users\acer\source\repos\ConsoleApp1\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ConsoleApp1\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ConsoleApp1\Constructor\Constructor\obj\Debug\Constructor.exe
+C:\Users\acer\source\repos\ConsoleApp1\Constructor\Constructor\obj\Debug\Constructor.pdb

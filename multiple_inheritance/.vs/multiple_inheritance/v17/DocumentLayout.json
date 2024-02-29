@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\ConsoleApp1\\multiple_inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E98D523-D989-4126-9738-EFFA227DDD47}|multiple_inheritance\\multiple_inheritance.csproj|c:\\users\\acer\\source\\repos\\consoleapp1\\multiple_inheritance\\multiple_inheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E98D523-D989-4126-9738-EFFA227DDD47}|multiple_inheritance\\multiple_inheritance.csproj|solutionrelative:multiple_inheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E98D523-D989-4126-9738-EFFA227DDD47}|multiple_inheritance\\multiple_inheritance.csproj|C:\\Users\\acer\\source\\repos\\ConsoleApp1\\multiple_inheritance\\multiple_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E98D523-D989-4126-9738-EFFA227DDD47}|multiple_inheritance\\multiple_inheritance.csproj|solutionrelative:multiple_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ConsoleApp1\\multiple_inheritance\\multiple_inheritance\\Animal.cs",
+              "RelativeDocumentMoniker": "multiple_inheritance\\Animal.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ConsoleApp1\\multiple_inheritance\\multiple_inheritance\\Animal.cs",
+              "RelativeToolTip": "multiple_inheritance\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T12:57:56.035Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ConsoleApp1\\multiple_inheritance\\multiple_inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "multiple_inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ConsoleApp1\\multiple_inheritance\\multiple_inheritance\\Program.cs",
+              "RelativeToolTip": "multiple_inheritance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T12:53:06.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

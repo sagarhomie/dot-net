@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\ConsoleApp1\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC16A436-93A1-44D7-8448-F206EF10ECEF}|WebApplication2\\WebApplication2.csproj|c:\\users\\acer\\source\\repos\\consoleapp1\\webapplication2\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC16A436-93A1-44D7-8448-F206EF10ECEF}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC16A436-93A1-44D7-8448-F206EF10ECEF}|WebApplication2\\WebApplication2.csproj|c:\\users\\acer\\source\\repos\\consoleapp1\\webapplication2\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC16A436-93A1-44D7-8448-F206EF10ECEF}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC16A436-93A1-44D7-8448-F206EF10ECEF}|WebApplication2\\WebApplication2.csproj|c:\\users\\acer\\source\\repos\\consoleapp1\\webapplication2\\webapplication2\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC16A436-93A1-44D7-8448-F206EF10ECEF}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC16A436-93A1-44D7-8448-F206EF10ECEF}|WebApplication2\\WebApplication2.csproj|c:\\users\\acer\\source\\repos\\consoleapp1\\webapplication2\\webapplication2\\views\\sagar\\biodata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC16A436-93A1-44D7-8448-F206EF10ECEF}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\sagar\\biodata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC16A436-93A1-44D7-8448-F206EF10ECEF}|WebApplication2\\WebApplication2.csproj|c:\\users\\acer\\source\\repos\\consoleapp1\\webapplication2\\webapplication2\\views\\sagar\\sagarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC16A436-93A1-44D7-8448-F206EF10ECEF}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\sagar\\sagarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC16A436-93A1-44D7-8448-F206EF10ECEF}|WebApplication2\\WebApplication2.csproj|c:\\users\\acer\\source\\repos\\consoleapp1\\webapplication2\\webapplication2\\controllers\\sagarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC16A436-93A1-44D7-8448-F206EF10ECEF}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\sagarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC16A436-93A1-44D7-8448-F206EF10ECEF}|WebApplication2\\WebApplication2.csproj|c:\\users\\acer\\source\\repos\\consoleapp1\\webapplication2\\webapplication2\\views\\home\\printnumber.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC16A436-93A1-44D7-8448-F206EF10ECEF}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\printnumber.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC16A436-93A1-44D7-8448-F206EF10ECEF}|WebApplication2\\WebApplication2.csproj|c:\\users\\acer\\source\\repos\\consoleapp1\\webapplication2\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC16A436-93A1-44D7-8448-F206EF10ECEF}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sagarController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ConsoleApp1\\WebApplication2\\WebApplication2\\Views\\sagar\\sagarController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\sagar\\sagarController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ConsoleApp1\\WebApplication2\\WebApplication2\\Views\\sagar\\sagarController.cs",
+              "RelativeToolTip": "WebApplication2\\Views\\sagar\\sagarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T02:03:00.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BioData.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ConsoleApp1\\WebApplication2\\WebApplication2\\Views\\sagar\\BioData.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\sagar\\BioData.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ConsoleApp1\\WebApplication2\\WebApplication2\\Views\\sagar\\BioData.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\sagar\\BioData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T02:01:27.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sagarController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ConsoleApp1\\WebApplication2\\WebApplication2\\Controllers\\sagarController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\sagarController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ConsoleApp1\\WebApplication2\\WebApplication2\\Controllers\\sagarController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\sagarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:53:04.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "printNumber.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ConsoleApp1\\WebApplication2\\WebApplication2\\Views\\Home\\printNumber.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\printNumber.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ConsoleApp1\\WebApplication2\\WebApplication2\\Views\\Home\\printNumber.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\printNumber.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T01:40:25.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ConsoleApp1\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ConsoleApp1\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:06:15.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ConsoleApp1\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ConsoleApp1\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T01:17:08.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ConsoleApp1\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ConsoleApp1\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T01:11:49.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "contactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\ConsoleApp1\\WebApplication2\\WebApplication2\\Views\\Home\\contactUs.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\contactUs.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\ConsoleApp1\\WebApplication2\\WebApplication2\\Views\\Home\\contactUs.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\contactUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T01:50:48.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
