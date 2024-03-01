@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\ConsoleApp1\lyamda\lyamda\bin\Debug\lyamda.exe.config
+C:\Users\acer\source\repos\ConsoleApp1\lyamda\lyamda\bin\Debug\lyamda.exe
+C:\Users\acer\source\repos\ConsoleApp1\lyamda\lyamda\bin\Debug\lyamda.pdb
+C:\Users\acer\source\repos\ConsoleApp1\lyamda\lyamda\obj\Debug\lyamda.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ConsoleApp1\lyamda\lyamda\obj\Debug\lyamda.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ConsoleApp1\lyamda\lyamda\obj\Debug\lyamda.exe
+C:\Users\acer\source\repos\ConsoleApp1\lyamda\lyamda\obj\Debug\lyamda.pdb
